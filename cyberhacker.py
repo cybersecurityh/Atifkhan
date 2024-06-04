@@ -1,4 +1,3 @@
-cyberhacker.py
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Name: Babar Ali
